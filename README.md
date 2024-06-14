@@ -20,9 +20,6 @@ This project introduces a React-based web application that functions as a clone 
 - **CSS Styling:** Employs CSS to style the user interface for visual appeal and usability.
 
 
-## Installation
-
-1. Clone the repository:
 
    ```bash
    git clone https://github.com/mrshyspy/Gemini.ai
